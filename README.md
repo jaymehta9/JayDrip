@@ -24,8 +24,6 @@ Jay Drip is a modern, full-featured clothing e-commerce platform built with the 
 
 ## 🛍️ Product Listing
 
-## 🛍️ Product Listing
-
 | ![](./screenshots/Product.png) | ![](./screenshots/Product1.png) |
 |-------------------------------|--------------------------------|
 | ![](./screenshots/Product2.png) | ![](./screenshots/Product3.png) |
